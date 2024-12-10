@@ -64,5 +64,3 @@ class Department:
         CONN.commit()
         
 
-dept1 = Department(name='IT', location='Block 1')
-dept1.save()
